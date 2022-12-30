@@ -14,6 +14,8 @@ from model.battlefield import Battlefield
 from model.vessel import Vessel 
 from model.weapon import Weapon
 from model.air_missile_launcher import AirMissileLauncher
+from model.game import Game
+from model.player import Player
 
 
 
