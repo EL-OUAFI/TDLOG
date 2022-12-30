@@ -17,7 +17,7 @@ class Vessel:
 
         self.coordinates = x, y, z
 
-    def get_coordinates(self) -> (float, float, float):
+    def get_coordinates(self) -> (float):
         return self.coordinates
 
     def fire_at(self, x, y, z):
